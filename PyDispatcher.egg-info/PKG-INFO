@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: PyDispatcher
 Version: 2.0.1
 Summary: Multi-producer-multi-consumer signal dispatching mechanism

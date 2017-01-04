@@ -9,6 +9,7 @@ pydispatcher-2.0.0.ebuild
 robust.py
 robustapply.py
 saferef.py
+setup.cfg
 setup.py
 ./__init__.py
 ./dispatcher.py

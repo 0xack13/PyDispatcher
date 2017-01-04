@@ -1,5 +1,5 @@
 import unittest
-from pydispatch.tests import test_dispatcher,test_robustapply, test_saferef
+from tests import test_dispatcher,test_robustapply, test_saferef
 
 def getSuite():
 	set = []
